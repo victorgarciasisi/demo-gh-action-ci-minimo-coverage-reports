@@ -1,0 +1,2 @@
+# Dependencias mínimas para la demo de cobertura + reports
+coverage==7.6.10
